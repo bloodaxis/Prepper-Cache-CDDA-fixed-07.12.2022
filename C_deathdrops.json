@@ -4,6 +4,6 @@
     "type": "item_group",
     "subtype": "collection",
     "id": "mon_zombie_survivor_death_drops",
-    "extend": { "items": [ { "item": "cachemap", "prob": 4 } ] }
+    "extend": { "entries": [ { "item": "cachemap", "prob": 4 } ] }
   }
 ]
