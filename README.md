@@ -23,3 +23,5 @@ So, right, small little bunkers found in the woods that contain a specific type 
 I'm not good at balancing things, so these might be 'free supplies' and little else.  Similarly, there isn't anything particularly exceptional in the basic caches.  A mid-tier character will probably have one or two of everything you can find here.  For new players, though, finding a cache of food or tools could be very useful.
 
 That's it.  Thanks for checking out my mod.
+
+Original Author: TheMurderUnicorn, this is their work, not mine, I just updated it to work properly on experimental.
