@@ -1,6 +1,6 @@
 [
   {
-	"copy-from": mon_zombie_survivor_death_drops,
+    "copy-from": "mon_zombie_survivor_death_drops",
     "type": "item_group",
     "subtype": "collection",
     "id": "mon_zombie_survivor_death_drops",
